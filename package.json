@@ -1,0 +1,23 @@
+{
+  "name": "aidd-code-review",
+  "version": "1.0.0",
+  "description": "Code reviewer",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "code-reviewer.js",
+  "scripts": {
+    "start": "node code-reviewer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.65",
+    "ai": "^5.0.93",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
