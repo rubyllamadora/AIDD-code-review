@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^2.0.65",
+    "@ai-sdk/openai": "^2.0.76",
     "ai": "^5.0.93",
     "dotenv": "^17.2.3"
   },
